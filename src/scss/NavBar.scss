@@ -1,0 +1,28 @@
+
+
+.me-auto{
+    text-align: right;
+    .header-navlink{
+        list-style: none;
+        color: white;
+        font-style: normal;
+        padding-left: 2rem;
+        text-align: right;
+        &:hover{
+            color: blanchedalmond;}
+    }
+}
+.header-user{
+    color: antiquewhite;
+    text-align: center;
+    .btn{
+    color: white;
+    background-color: rgb(170, 39, 39);
+    border-radius: 30px;
+    border: 10px;
+    }
+
+}
+
+
+
